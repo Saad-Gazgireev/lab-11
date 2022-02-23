@@ -2,14 +2,11 @@
     width: 760px;
     padding: 20px;
     height: 780px;
-    
     margin: auto;
-
 }
 .bigblock{
     width: 740px;
     height: 250px;
-
 }
 .bigfire{
     width: 760px;
@@ -19,8 +16,7 @@
     margin-top: 30px;
     border: 1px rgb(72, 27, 197);
     display: flex;
-    justify-content: space-between;
-    
+    justify-content: space-between;    
 }
 
 .minfire{
@@ -32,14 +28,12 @@
 .parrenttext{
     display: flex;
     justify-content: space-between;
-    margin-top: 10px;
-    
+    margin-top: 10px;   
 }
  .podtext{
      font-size:16px;
      color: rgb(117, 117, 117);
      width: 230px;
-
  }
 .span{
     font-family: Snell Roundhand, cursive;
@@ -51,8 +45,6 @@
     display: flex;
     justify-content: flex-end;
     font-size: 16px;
-    
-
 }
 
 .footer{
@@ -63,13 +55,11 @@
 .left{
     width: 50%;
 }
-.right{
-    
+.right{  
     padding-right:10px;
     margin-top: 25px;
     word-wrap: break-word;
-    width: 50%;
-    
+    width: 50%;   
 }
 .ssylka2{
     color:darkgoldenrod;
