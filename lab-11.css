@@ -18,13 +18,11 @@
     display: flex;
     justify-content: space-between;    
 }
-
 .minfire{
     width: 230px;
     height: 150px;
     border: 3px solid silver;
 }
-
 .parrenttext{
     display: flex;
     justify-content: space-between;
@@ -34,10 +32,9 @@
      font-size:16px;
      color: rgb(117, 117, 117);
      width: 230px;
- }
+}
 .span{
-    font-family: Snell Roundhand, cursive;
-    
+    font-family: Snell Roundhand, cursive;   
 }
 .ssylka{
     margin-top: 10px;
@@ -46,7 +43,6 @@
     justify-content: flex-end;
     font-size: 16px;
 }
-
 .footer{
     width: 100%;
     display: flex;
@@ -64,10 +60,8 @@
 .ssylka2{
     color:darkgoldenrod;
 }
-.h1{
-    
-    color: rgb(117, 117, 117);
-    
+.h1{ 
+    color: rgb(117, 117, 117);   
 }
 .jpg{
     width: 100%;
